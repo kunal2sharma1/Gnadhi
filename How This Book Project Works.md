@@ -49,10 +49,10 @@ This account is responsible for:
 - designing each checkpoint's workflow
 - deciding what research is required
 - assigning work to the other ChatGPT accounts
-- deciding when Claude research is required
 - comparing outputs from different agents
 - identifying contradictions and gaps
 - deciding what work should continue
+- conducting or directing new research
 - consolidating important findings
 - approving checkpoint completion
 - designing the high-level brief for the next checkpoint
@@ -72,6 +72,7 @@ Their exact roles can change from checkpoint to checkpoint, but typical roles ar
 - Primary Analyst
 - Independent Analyst
 - Adversarial / Critical Analyst
+- Evidence / Verification Researcher when needed
 
 The goal is not to make three accounts produce three copies of the same work.
 
@@ -79,102 +80,63 @@ They must receive **different objectives** so that their outputs can later be co
 
 ---
 
-# 3. The Seven Claude Accounts
+# 3. The Claude Accounts
 
-The seven Claude free accounts are used primarily for **targeted deep research**.
+Claude free accounts are treated as **optional targeted research capacity**, not as a required execution dependency.
 
-Claude is not treated as the permanent memory of the project.
+At the current point of the project, **all available Claude sessions are at their free-session limits and are unavailable for approximately five hours**.
 
-Claude may not be able to access the repository or previous conversation reliably, so every Claude assignment must be self-contained.
+Therefore:
 
-The seven accounts are used as seven separate research opportunities.
+> **The active project workflow must continue without Claude.**
 
-For each checkpoint, the Product Manager decides what the seven most valuable research questions are.
+The six Claude packets already collected for Checkpoint 1 are preserved in GitHub and remain usable as an initial research base.
 
-The research assignments should be:
+Until Claude sessions become available again, **all new research, source verification, evidence checking, analytical work, synthesis, and writing must be handled by ChatGPT workers.**
 
-- narrow
-- precise
-- independently useful
-- realistically completable within one free Claude session
-- focused on evidence rather than broad essays
-
-A Claude account should **not** be given a vague assignment such as:
-
-> Research Gandhi in detail.
-
-Instead, it should receive a bounded question such as:
-
-> Establish the documented sequence of events surrounding a specific historical episode, identify the strongest primary and secondary sources, note disputed details, and separate established evidence from later interpretation.
-
-The purpose is to obtain **seven complementary research packets**, not seven incomplete encyclopedias.
+When Claude becomes available again, it may be used only for narrowly targeted research that ChatGPT identifies as valuable. The project must never stop waiting for Claude.
 
 ---
 
-# 4. Claude Research Before GPT Execution
+# 4. Current Claude Operating Rule
 
-For a major checkpoint, the normal sequence is:
+The current rule is:
 
-**Research planning → Seven Claude research assignments → Research packets → GPT execution**
+**Claude is optional. ChatGPT is sufficient to continue the project.**
 
-Claude research should be completed before the main parallel GPT work begins whenever the checkpoint depends heavily on historical or external evidence.
+When Claude is unavailable:
 
-The Product Manager decides whether all seven Claude slots are needed.
+- do not delay a checkpoint
+- do not leave research unfinished merely because a Claude packet would have been useful
+- do not ask the author to wait for Claude
+- use ChatGPT web research and primary-source verification instead
+- preserve the Claude-derived material already in GitHub as background evidence
+- clearly mark any claim that still needs a source check rather than pretending the gap is closed
 
-Some checkpoints may use all seven.
-
-Some may use fewer if the evidence need is smaller.
-
-Unused Claude capacity should not be filled with unnecessary research.
+When Claude becomes available later, its value should be used for **specific unresolved questions**, not as the main research engine.
 
 ---
 
-# 5. Claude Research Packet Standard
+# 5. ChatGPT Research Is a First-Class Research Method
 
-Every Claude research task must produce a structured Markdown research packet.
+ChatGPT workers are not only synthesis agents.
 
-The packet should contain, where relevant:
+They can also conduct new research when needed.
 
-### Research Question
-The exact question assigned.
+For historical research, the GPT worker should:
 
-### Scope
-What the research covers and what it deliberately excludes.
+- search current web sources when required
+- prefer primary documents and reputable scholarship
+- compare multiple independent sources
+- verify dates and quotations
+- identify disagreements
+- distinguish source claims from the worker's inference
+- record research gaps
+- write the verified result directly into GitHub
 
-### Key Findings
-The most important findings.
+A GPT worker should never assume that the Claude packet is complete or correct.
 
-### Primary Evidence
-Primary sources and what they establish.
-
-### Secondary Evidence
-Relevant scholarly or reputable secondary sources.
-
-### Important Quotations
-Only quotations that are important enough to verify and potentially use later.
-
-### Competing Interpretations
-Where historians or sources disagree.
-
-### Disputed Points
-Claims that are uncertain or contested.
-
-### What We Can Safely Claim
-Claims supported strongly enough for later consideration.
-
-### What We Cannot Yet Claim
-Claims that remain unsupported, uncertain, or overstated.
-
-### Research Gaps
-What still needs investigation.
-
-### Sources
-A usable list of sources for later verification.
-
-### Handoff to GPT
-A concise explanation of how the findings should be used in the next stage.
-
-Claude should not write book chapters unless a later checkpoint explicitly assigns that task.
+The Claude packets are **inputs to be audited**, not unquestionable authorities.
 
 ---
 
@@ -242,8 +204,8 @@ A typical parallel arrangement is:
 ### Worker 1 — Primary Analysis
 Build the strongest evidence-based understanding of the checkpoint problem.
 
-### Worker 2 — Independent Analysis
-Approach the problem independently and reach conclusions without simply copying Worker 1.
+### Worker 2 — Independent Analysis / Reliability Audit
+Approach the evidence independently, audit source quality, and identify gaps or unsupported claims.
 
 ### Worker 3 — Adversarial Analysis
 Search for contradictions, unsupported assumptions, alternative explanations, weak logic, and evidence that could change the conclusion.
@@ -315,7 +277,8 @@ Possible next actions include:
 
 - continue GPT analysis
 - assign a new GPT task
-- request targeted Claude research
+- conduct targeted web research
+- request targeted Claude research when available
 - reject an argument
 - merge compatible findings
 - revise the checkpoint objective
@@ -323,23 +286,17 @@ Possible next actions include:
 
 ---
 
-# 12. Claude Can Be Used Again After GPT Analysis
+# 12. Targeted Research Loops
 
-Claude research is not limited to the beginning of a checkpoint.
+The project should use the following priority order while Claude is unavailable:
 
-The normal pattern is:
+**Existing research packets → GPT audit → ChatGPT web/primary-source research → GPT cross-check → synthesis**
 
-**Initial Claude research → GPT analysis → identify gaps → targeted Claude research → GPT reconciliation**
+When Claude becomes available, the optional extended loop is:
 
-The second Claude round should only happen when the GPT analysis exposes a genuine evidence gap.
+**Existing research → GPT identifies gap → targeted Claude research → ChatGPT verification → synthesis**
 
-The new Claude assignment must be even more precise than the first one.
-
-For example:
-
-> Verify whether this specific claim is supported by primary evidence and identify the strongest scholarly disagreement.
-
-That is preferable to restarting a broad research task.
+Claude should never be used to delay a research decision that ChatGPT can reasonably investigate itself.
 
 ---
 
@@ -403,7 +360,7 @@ A checkpoint normally follows this broad pattern:
 
 ↓
 
-**Targeted Claude Research**
+**Initial Research Inputs**
 
 ↓
 
@@ -423,7 +380,11 @@ A checkpoint normally follows this broad pattern:
 
 ↓
 
-**Additional Targeted Research, if needed**
+**Additional ChatGPT Research, if needed**
+
+↓
+
+**Optional Targeted Claude Research, if available**
 
 ↓
 
@@ -480,10 +441,11 @@ Parallel execution is useful only when the workers have clearly different jobs.
 We should avoid:
 
 - three workers writing the same answer
-- seven Claude accounts researching the same broad topic
+- multiple agents researching the same broad topic
 - repeating the same research because context was lost
 - generating large amounts of text without a defined purpose
 - allowing an agent to invent missing context
+- waiting for unavailable Claude capacity
 
 Every assignment should answer:
 
@@ -537,11 +499,13 @@ The author remains the final decision-maker on the book's meaning and direction.
 
 The project should behave like a small research and editorial team built from multiple AI sessions.
 
-**Claude = targeted research capability**
+**ChatGPT = primary research, analysis, verification and writing engine**
 
-**Other ChatGPT accounts = parallel analytical workers**
+**Claude = optional targeted research accelerator when available**
 
 **This ChatGPT account = Product Manager, workflow controller and chief editor**
+
+**Other ChatGPT accounts = parallel analytical workers**
 
 **GitHub = permanent project memory**
 
