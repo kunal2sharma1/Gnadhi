@@ -4,36 +4,50 @@
 Produce the final working concept package for Checkpoint 1 and formally review what was learned before designing Checkpoint 2.
 
 ## What this phase must accomplish
-Consolidate the accepted concept, working thesis, central question, scope, definitions, assumptions, risks, and unresolved issues into a coherent checkpoint package. Record what is fixed for now and what must remain open to later evidence.
+Consolidate the accepted concept, scope, definitions, central question, working thesis, assumptions, risks, unresolved questions, and adversarial findings. Then determine whether Checkpoint 1 is complete.
+
+This phase does not pre-design the detailed work of Checkpoint 2. It records what Checkpoint 2 must accomplish based on what was actually learned.
 
 ## Sub-phases
 
-### Sub-phase 5.1 — Concept Package Consolidation
-**Assigned to:** ChatGPT
+### Sub-phase 5.1 — Final Working Concept Package
+**Assigned to:** ChatGPT Go execution account — Synthesis role
 
-**Work:** Read every completed file in Checkpoint 1. Consolidate the accepted material into one clear concept package for use by every future agent.
+**Work:** Read every approved output from Checkpoint 1 supplied in the context package. Consolidate them into one clear working concept package. Separate project decisions from historical hypotheses and unresolved questions.
 
 **Output:** `05.1 Final Working Concept Package.md`
 
-### Sub-phase 5.2 — Final Concept Quality Review
-**Assigned to:** Claude
+### Sub-phase 5.2 — Independent Final Quality Review
+**Assigned to:** ChatGPT Go execution account — Critical Review role
 
-**Work:** Read the entire Checkpoint 1 record and review the final working concept for logical gaps, ambiguous language, hidden assumptions, and risks that could damage later historical research. Identify anything that should remain explicitly provisional.
+**Work:** Read the complete final concept package plus the key earlier outputs. Search for logical gaps, vague language, unsupported assumptions, hidden bias, and anything that should remain provisional. Do not rewrite the project; review it.
 
 **Output:** `05.2 Final Concept Quality Review.md`
 
 ### Sub-phase 5.3 — Checkpoint Completion Review
-**Assigned to:** ChatGPT
+**Assigned to:** This ChatGPT account — Product Manager
 
-**Work:** Incorporate the final quality review, confirm whether Checkpoint 1 meets its completion standard, record the final decisions, list unresolved questions that must carry forward, and define what Checkpoint 2 must now accomplish based on the findings of Checkpoint 1.
+**Work:** Incorporate the quality review, decide whether Checkpoint 1 meets its completion standard, record the final decisions, list unresolved questions, identify lessons from the checkpoint, and define the high-level objective of Checkpoint 2. Do not lock Checkpoint 2’s exact phases or sub-phases yet.
 
 **Output:** `Checkpoint 1 Completion Review.md`
 
-## Agent instructions
-All previous checkpoint material must be read before any final decision is made. Do not force unresolved questions into the final concept. The completion review must explicitly identify what is established as a project decision versus what remains a historical hypothesis.
+## Execution rule for all sub-phases
+Every ChatGPT execution assignment receives a self-contained context pack, the relevant phase file, the exact task, and an explicit expected Markdown output. No execution account needs to remember a previous chat.
+
+## Handoff rule
+The completion review must contain a usable handoff for Checkpoint 2, including:
+- what is established as project direction
+- what remains historical hypothesis
+- unresolved questions
+- important risks
+- what the next checkpoint must investigate
+- what should not yet be assumed
 
 ## Completion condition
-The Checkpoint 1 concept package is coherent, reviewed, and ready to serve as the starting context for designing Checkpoint 2.
+Checkpoint 1 has a coherent, challenged, documented working concept and a clear evidence-driven direction for Checkpoint 2.
+
+## Next checkpoint rule
+Only after this completion review is accepted will the Product Manager design the exact phases and sub-phases of Checkpoint 2.
 
 ## Status
 Not started
