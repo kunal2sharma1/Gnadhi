@@ -53,17 +53,19 @@ Worker 3 focuses on Gandhi's final months, January 1948 fast, ₹55 crore, final
 
 Each worker must write directly to GitHub.
 
-Do not wait for Claude. Do not perform broad duplicate research. Use the Master Research Context Pack to target the unresolved questions.
-
 ### 3.6 — Cross-Verification and Contradiction Review
-**Assigned to:** GPT Workers 1, 2 and 3 in parallel
+**Assigned to:** This ChatGPT account — Product Manager, with GPT worker support as needed
 
-Read the three verification outputs. Compare them, identify remaining contradictions, and perform additional targeted web research only where a disagreement is material to the book.
+Reconcile the three verification outputs. Preserve unresolved disputes, resolve contradictions where the primary record permits, and record where further evidence would still be required.
+
+**Output:** `03.6 Final Research Reconciliation.md`
+
+**Status:** Complete.
 
 ### 3.7 — Final Concept Stress Test
 **Assigned to:** GPT Workers 1, 2 and 3 in parallel
 
-Re-test the original concept using the verified evidence.
+Re-test the original concept using the reconciled evidence.
 
 Determine whether the concept should survive, narrow, change, split into multiple arguments, or be rejected in its current form.
 
@@ -90,4 +92,4 @@ Phase 3 is complete only when:
 5. A defensible working concept exists for Checkpoint 1 synthesis.
 
 ## Status
-Phase 3.1–3.4 complete. Phase 3.5 ready to begin.
+Phase 3.1–3.6 complete. Phase 3.7 — Final Concept Stress Test is next.
