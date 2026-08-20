@@ -1,19 +1,19 @@
-# Phase 2 — Seven Claude Research Packets
+# Phase 2 — Claude Research Packets
 
 ## Objective
-Complete seven independent, narrowly scoped research assignments that give the GPT workers the historical context needed for Checkpoint 1.
+Complete six independent, narrowly scoped research assignments that give the GPT workers the historical context needed for Checkpoint 1.
 
 ## What this phase must accomplish
-Produce seven useful Research Packets. Each packet must answer one defined question, cite or identify reliable sources, separate fact from interpretation, flag disagreement, and state what the research does and does not establish.
+Produce six useful Research Packets. Each packet must answer one defined question, identify reliable sources, separate fact from interpretation, flag disagreement, and state what the research does and does not establish.
 
 The assignments are deliberately narrow. A Claude account must not expand the assignment into a general history of Gandhi, the assassination, Hindu nationalism, or modern India.
 
-## Seven research sub-phases
+## Six research sub-phases
 
 ### 2.1 — Assassination Facts and Immediate Historical Record
 **Assigned to:** Claude account 1
 
-Establish the documented sequence and immediate historical record around Gandhi's assassination. Focus on what is well established, what is disputed, and which primary sources are relevant. Do not research the full later legacy.
+Establish the documented sequence and immediate historical record around Gandhi's assassination. Focus on what is well established, what is disputed, and which primary sources are relevant.
 
 **Output:** `2.1 Research Packet — Assassination Facts.md`
 
@@ -45,29 +45,24 @@ Research strong, serious criticisms of Gandhi that could challenge the book's fr
 
 **Output:** `2.5 Research Packet — Critiques of Gandhi.md`
 
-### 2.6 — Historiography and Competing Interpretations
+### 2.6 — Historiography, Gandhi's Legacy, Memory, and Competing Interpretations
 **Assigned to:** Claude account 6
 
-Research how serious historians and scholars interpret Gandhi's assassination, its motives, and the meaning of Gandhi's legacy. Identify major disagreements and where evidence supports more than one interpretation.
+Combine the previously separate historiography and legacy assignments into one tightly scoped packet. Research how serious historians interpret Gandhi's assassination, its motives, and Gandhi's continuing significance, and how Gandhi's image, ideas, memory, and reputation have been defended, criticised, appropriated, neutralised, or contested after 1948.
 
-**Output:** `2.6 Research Packet — Historiography.md`
+Keep the distinction between criticism, rejection, reinterpretation, appropriation, symbolic use, neutralisation, deliberate discrediting, and contested inheritance.
 
-### 2.7 — Gandhi's Legacy, Memory, and Modern Political Use
-**Assigned to:** Claude account 7
-
-Research how Gandhi's image, ideas, memory, and reputation have been defended, criticised, appropriated, or contested after 1948. Keep the assignment focused on evidence relevant to the book's claim that the struggle over Gandhi did not end with his death.
-
-**Output:** `2.7 Research Packet — Gandhi's Legacy and Memory.md`
+**Output:** `2.6 Research Packet — Historiography and Gandhi's Legacy.md`
 
 ## Research packet standard
-Every Claude output must contain:
+Every Claude output must contain, where available:
 
 - research question
 - scope and exclusions
 - key findings
 - primary evidence
 - secondary evidence
-- important quotations with source details where available
+- important quotations with source details
 - competing interpretations
 - disputed or uncertain points
 - what the evidence safely supports
@@ -76,8 +71,10 @@ Every Claude output must contain:
 - sources
 - handoff notes for the GPT workers
 
-## Completion condition
-All seven research packets are complete enough for the Product Manager to consolidate them into one research context pack.
+Some packets may be incomplete because of Claude free-session limits. An incomplete packet must remain clearly labelled as incomplete rather than being silently completed from assumptions.
 
-## Status
-Not started
+## Completion condition
+Six research packets are available in the repository and are sufficient for the Product Manager to begin Phase 3. Missing evidence and incomplete sections must be preserved as research gaps.
+
+## Current Status
+Completed for the current six-account Claude setup.
