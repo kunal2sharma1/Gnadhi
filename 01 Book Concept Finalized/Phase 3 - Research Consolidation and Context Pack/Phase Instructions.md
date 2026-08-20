@@ -1,109 +1,93 @@
-# Phase 3 — Research Consolidation and Context Pack
+# Phase 3 — Research Consolidation and ChatGPT-Only Verification
 
 ## Objective
-Turn the six Claude research packets into one reliable working context, then use three parallel ChatGPT workers to audit, challenge, verify, and extend that evidence base.
+Turn the six initial Claude research packets into one reliable working context, then use the three ChatGPT workers for all new research, primary-source verification, contradiction resolution, and concept testing while Claude is unavailable.
 
-Claude is currently unavailable because all six active Claude sessions have reached their free-session limits. Therefore this phase must be completed entirely with ChatGPT research and analysis. Claude may be used later only as optional targeted research capacity when sessions become available again.
+## Current constraint
+All available Claude sessions have reached their free-session limits. Do not wait for Claude and do not design the active workflow around Claude availability.
 
-## What this phase must accomplish
-
-1. Compare the six initial Claude research packets for overlap, contradictions, missing evidence, and unsupported claims.
-2. Independently audit the reliability of those packets.
-3. Adversarially test the original book concept.
-4. Conduct new ChatGPT research wherever the initial packets leave important factual or evidentiary gaps.
-5. Produce one Master Research Context Pack that becomes the authoritative research base for the next phase.
+The six Claude packets are the initial research base. New research and verification in this phase will be done by ChatGPT using web research, primary sources, scholarly sources, and direct source comparison.
 
 ## Sub-phases
 
 ### 3.1 — Research Packet Comparison
 **Assigned to:** GPT Worker 1
 
-Read all six Claude research packets from Phase 2. Compare their findings, identify genuine agreements and disagreements, map evidence strength, and test the original concept claim-by-claim.
+Compare all six Claude research packets. Identify agreement, contradiction, duplication, evidence strength, and important gaps.
 
 **Output:** `03.1 Research Comparison.md`
 
 ### 3.2 — Research Reliability and Gap Review
 **Assigned to:** GPT Worker 2
 
-Independently audit the six Claude packets for source quality, verification risk, overclaiming, missing evidence, quotation problems, and claims that require primary-source checking.
+Independently audit the six packets for weak evidence, unclear sourcing, overclaiming, missing perspectives, and claims requiring direct verification.
 
 **Output:** `03.2 Research Reliability Review.md`
 
 ### 3.3 — Adversarial Concept Analysis
 **Assigned to:** GPT Worker 3
 
-Attempt to break the original concept. Test the words "ideology," "failed to kill what Gandhi represented," and "still trying to destroy his legacy." Identify alternative interpretations and the evidence needed to defend any surviving formulation.
+Test the original book concept against the six packets. Identify what survives, what fails, what requires narrower wording, and what must be researched before the concept can be accepted.
 
 **Output:** `03.3 Research Use Map.md`
 
 ### 3.4 — Master Research Context Pack
 **Assigned to:** This ChatGPT account — Product Manager
 
-Consolidate the three GPT analyses and the six Claude packets into one authoritative research context pack. Preserve disagreements rather than flattening them.
-
-The context pack must contain:
-
-- established findings
-- evidence strength
-- important source limitations
-- major disagreements
-- unresolved questions
-- conceptual risks
-- claims that should not yet be made
-- results of additional ChatGPT research
-- source references
-- exact research priorities for the next phase
+Consolidate the six Claude packets and the three GPT reviews into one master working context. Preserve disagreements, evidence limits, conceptual risks, and research priorities.
 
 **Output:** `03.4 Master Research Context Pack.md`
 
-### 3.5 — Targeted ChatGPT Research and Verification
-**Assigned to:** ChatGPT workers in parallel, with Product Manager coordination
+**Status:** Complete.
 
-Use web research and primary-source verification to close only the research gaps that the three GPT reviews identify as capable of changing the book's concept or load-bearing factual claims.
+### 3.5 — Targeted ChatGPT Research and Primary-Source Verification
+**Assigned to:** GPT Workers 1, 2 and 3 in parallel
 
-This phase does not wait for Claude.
+Use web research and primary-source verification to close only the research gaps that can materially change the book concept or load-bearing factual claims.
 
-Each assignment must be narrow and produce a directly usable Markdown evidence file in GitHub.
+Worker 1 focuses on the assassination record, conspiracy chronology, Godse's primary statements, and the immediate causal record.
 
-Typical targets may include:
+Worker 2 focuses on Godse, RSS, Hindu Mahasabha, Savarkar, and organisational-responsibility claims.
 
-- primary verification of quotations
-- direct examination of the assassination trial record
-- Kapur Commission findings
-- Gandhi's January 1948 records
-- Godse's primary statements
-- organisational records
-- modern continuity or legacy claims
+Worker 3 focuses on Gandhi's final months, January 1948 fast, ₹55 crore, final political position, and post-1948 legacy/continuity claims.
 
-The exact research assignments are created after 3.1–3.3 are complete.
+Each worker must write directly to GitHub.
 
-**Outputs:** created only as required by the identified research gaps.
+Do not wait for Claude. Do not perform broad duplicate research. Use the Master Research Context Pack to target the unresolved questions.
 
-## Operating rule while Claude is unavailable
+### 3.6 — Cross-Verification and Contradiction Review
+**Assigned to:** GPT Workers 1, 2 and 3 in parallel
 
-ChatGPT is the primary research engine for this phase.
+Read the three verification outputs. Compare them, identify remaining contradictions, and perform additional targeted web research only where a disagreement is material to the book.
 
-Workers must:
+### 3.7 — Final Concept Stress Test
+**Assigned to:** GPT Workers 1, 2 and 3 in parallel
 
-- use web research where external verification is needed
-- prioritize primary sources and serious scholarship
-- cross-check important claims
-- distinguish source-derived fact from inference
-- write research directly to GitHub
-- preserve unresolved uncertainty
+Re-test the original concept using the verified evidence.
 
-Do not create placeholder Claude tasks and wait for Claude to return.
+Determine whether the concept should survive, narrow, change, split into multiple arguments, or be rejected in its current form.
+
+Do not begin manuscript drafting.
+
+## Research operating rules
+
+1. ChatGPT is the active research engine while Claude is unavailable.
+2. Use primary sources and serious scholarship for load-bearing claims.
+3. Verify important quotations against authoritative sources.
+4. Do not treat repeated secondary claims as independent corroboration.
+5. Keep legal findings, commission findings, and later historical interpretations distinct.
+6. Preserve genuine uncertainty and disagreement.
+7. Write completed research directly into GitHub as readable Markdown.
 
 ## Completion condition
 
 Phase 3 is complete only when:
 
-1. `03.1 Research Comparison.md` exists and has been reviewed.
-2. `03.2 Research Reliability Review.md` exists and has been reviewed.
-3. `03.3 Research Use Map.md` exists and has been reviewed.
-4. All critical research gaps identified by those reviews have either been answered by ChatGPT research or explicitly documented as unresolved.
-5. `03.4 Master Research Context Pack.md` exists and is sufficient for the next checkpoint stage.
-6. The Product Manager has confirmed that the original concept has been tested against the available evidence rather than merely supported by it.
+1. The six Claude packets have been consolidated.
+2. The critical load-bearing claims have been checked by ChatGPT research.
+3. Major contradictions are explicitly documented.
+4. The original concept has been re-tested against the verified evidence.
+5. A defensible working concept exists for Checkpoint 1 synthesis.
 
 ## Status
-In progress — GPT parallel analysis complete; Master Research Context Pack pending.
+Phase 3.1–3.4 complete. Phase 3.5 ready to begin.
