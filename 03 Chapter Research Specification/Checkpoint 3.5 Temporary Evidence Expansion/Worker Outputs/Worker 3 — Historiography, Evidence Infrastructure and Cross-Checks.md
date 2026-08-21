@@ -737,3 +737,115 @@ These are **research implications only** and do not alter the locked architectur
 **Tasks completed in sequence: 1–10.**
 
 This report is an evidence-infrastructure document, not a replacement for the master architecture. It records research findings, comparative controls, source priorities and potential structural implications without modifying the locked concept, architecture, master specification or red-team log.
+
+## Post-Task-10 Deepening — Highest-Value Source Infrastructure Findings
+
+The remaining session capacity was used to deepen, rather than broaden, the unresolved source gaps identified above.
+
+### A. Gandhi primary-text infrastructure is stronger than assumed
+
+The Gandhi Heritage Portal provides digitised access to *Hind Swaraj / Indian Opinion* and related foundational works, with dated editions. This makes it possible to build passage-level comparisons for Chapter 13 instead of relying on secondary summaries. The portal explicitly identifies *Hind Swaraj - Indian Opinion* as published in December 1909 and provides page-level navigation. [Gandhi Heritage Portal: https://www.gandhiheritageportal.org/mahatma-gandhi-books/hind-swaraj-indian-opinion]
+
+**Research consequence:** Chapter 13 should use a claim-by-claim textual comparison between Gandhi’s original text and Upadhyaya’s 1965 lectures. The evidentiary unit should be a specific concept, passage or proposition—not general thematic resemblance.
+
+### B. Jana Sangh documentary infrastructure is unusually usable
+
+The BJP Central Library provides a digitised *Principles and Policies Manifestos Constitution* collection for the Bharatiya Jana Sangh and a searchable series of Jana Sangh resolutions and party documents. The collection includes a 1973 compilation and multiple volumes of economic, defence, internal-affairs, education and party resolutions. The documentary base therefore allows institutional follow-through after Upadhyaya’s 1965 lectures to be tested rather than assumed. [BJP Central Library, BJS collection: https://library.bjp.org/jspui/handle/123456789/194 ; BJS Principles/Policies/Manifestos/Constitution: https://library.bjp.org/jspui/handle/123456789/195]
+
+One indexed BJS manifesto extract explicitly includes swadeshi, decentralised village-level programmes, labour-intensive development and a “non-communal state.” These documents are not evidence that the Jana Sangh adopted Gandhi wholesale. They are evidence that a later institutional programme can be examined for selected conceptual overlap and divergence. [BJS 1971 manifesto compilation: https://library.bjp.org/jspui/bitstream/123456789/195/1/VOL%201-%20PRINCIPLES%20%20AND%20POLICIES%20%20MANIFESTOS%20%20CONSTITUTION.pdf]
+
+**Research consequence:** The Chapter 13 dossier should contain a three-stage source chain:
+
+1. Gandhi, *Hind Swaraj*;
+2. Upadhyaya, 1965 Integral Humanism lectures;
+3. Jana Sangh principles/policies/manifestos/resolutions.
+
+The analytical question is how a concept changes between stages.
+
+### C. Vinoba primary-source infrastructure is strong and period-specific
+
+The official Vinoba archive states that it is hosted by the copyright-holders of Vinoba’s literature and is intended as a comprehensive resource for Vinoba and the Bhoodan-Gramdan movement. Its archives include Sarvodaya conference reports, Sarva Seva Sangh reports/resolutions, Bhoodan periodicals and other movement records. The conference archive begins with a 1948 Sevagram constructive-workers conference and continues through the 1950s and 1960s. [Vinoba archive: https://vinoba.in/archives ; Sarvodaya conference reports: https://vinoba.in/archives/reports/reports-of-sarvodaya-conferences]
+
+The archive also provides Vinoba’s own books, including *Bhoodan to Gramdan*, *Gramdan—Why and How?*, *Principles and Philosophy of Bhoodan Yagna*, *Bhoodan-Yajna*, and *Bhoodan-Ganga*. [Vinoba books: https://vinoba.in/books/by-vinoba/available-for-download]
+
+The Gandhi Heritage Portal independently lists Bhoodan and Sarvodaya journal holdings, making it possible to triangulate movement records rather than rely on the movement’s own archive alone. [Gandhi Heritage Portal, Journals by Others: https://www.gandhiheritageportal.org/journals-by-others]
+
+**Research consequence:** Chapter 11 can be tested with an unusually strong source architecture. The key comparison should be:
+
+**Gandhi constructive programme → Vinoba’s early post-1948 formulations → Bhoodan/Gramdan organisational practice → later adaptation/failure.**
+
+This is a stronger test than simply demonstrating that Vinoba admired Gandhi.
+
+### D. The assassination legal record is directly recoverable through the Punjab & Haryana High Court
+
+The Punjab & Haryana High Court hosts a digitised 1949 criminal appeal record. The document describes the trial at the Red Fort, the number of witnesses and documentary exhibits, identifies the accused and records Savarkar’s acquittal at the trial level. This is preferable to citing a tertiary reproduction when the judicial record itself is accessible. [Punjab & Haryana High Court criminal appeal record: https://highcourtchd.gov.in/landmark_judgments/HC/English/criminal%20appeal_66_1949.pdf]
+
+**Research consequence:** future assassination dossiers should cite the judicial record directly for procedural and legal facts, then separately cite later commissions and scholarship for historical interpretation.
+
+### E. The natural-death control is now reinforced by contemporary Patel memorial scholarship
+
+Recent scholarship on the Statue of Unity treats Patel’s memorialisation as a political project of nationalist historiography. The study argues that the statue re-centres Patel relative to Nehru and constructs a contemporary vision of Indian identity through public memorialisation. This is directly useful as a non-assassination case of posthumous political reclamation. [Davis & Gamble 2020: https://onlinelibrary.wiley.com/doi/full/10.1111/ajph.12678]
+
+The Ministry of Culture’s current 150th-anniversary programme further confirms that the state can actively renew and institutionalise a natural-death leader’s legacy decades after death. [Ministry of Culture: https://culture.gov.in/commemorations/150th-birth-anniversary-sardar-vallabhbhai-patel]
+
+**Research consequence:** the final manuscript should state explicitly that contested political inheritance is not by itself proof of assassination-specific transformation. The distinctive Gandhi residue remains the immediate murder crisis and Gandhi/Godse counter-memory.
+
+### F. Source hierarchy refinement
+
+The source hierarchy should now operate as follows for future packets:
+
+**Tier 1A — direct authoritative primary record**
+
+- Gandhi Heritage Portal / CWMG authoritative texts.
+- Government/Cabinet records.
+- Judicial records hosted by courts.
+- Original organisational archives.
+- Official institutional document repositories.
+
+**Tier 1B — near-primary documentary reproductions**
+
+- Stable reproductions of archival documents.
+- Established edited collections where the original source is clearly identified.
+- Contemporary newspapers when used for contemporaneous public reaction rather than as sole proof of hidden motive.
+
+**Tier 2 — serious scholarship**
+
+- University-press and peer-reviewed historical scholarship.
+- Major academic monographs.
+- Specialist journal articles with identifiable archival or documentary bases.
+
+**Tier 3 — discovery/corroboration**
+
+- Reputable journalism.
+- Institutional explanatory pages.
+- Reviews and secondary summaries.
+
+Tier 3 material should not carry a load-bearing historical conclusion if a Tier 1 or Tier 2 source can establish it.
+
+### G. Additional evidence tags recommended after source review
+
+Two additional tags would improve future traceability:
+
+**SOURCE-STATUS: DIRECT / REPRODUCED / EDITED / SECONDARY / JOURNALISTIC**
+
+and
+
+**CAUSAL-ROLE: BASELINE / TRIGGER / MEDIATOR / OUTCOME / CONTROL**
+
+These should sit alongside the existing two-axis historical/inheritance classification. They make it easier to see whether a source establishes a fact, a mechanism or merely a later interpretation.
+
+### H. Deepened open research questions
+
+1. Can the 1948 Cabinet/Government records be assembled into a chronological sequence showing exactly when Gandhi’s posthumous meanings were selected and by whom?
+2. Can Rajghat’s design and institutional development be tracked from proposal to completion without turning architectural ambiguity into a single political intention?
+3. Which exact passages in *Hind Swaraj* are explicitly reworked by Upadhyaya, and how do Jana Sangh documents alter those concepts in practice?
+4. Which specific Bhoodan/Gramdan practices can be traced to Gandhi’s constructive programme through documentary transmission rather than family/discipular association?
+5. What are the earliest independently verifiable Godse commemorative acts after 1949, and can their scale be established?
+6. Does the modern NCERT record permit intent to be shown, or only textual effect?
+7. Is there any modern case that can genuinely be tagged DOCUMENTED CONTINUITY rather than only inheritance, appropriation, recurrence or analogy?
+
+## Completion Status
+
+**Tasks completed in sequence: 1–10, followed by targeted deepening of the highest-value unresolved source gaps.**
+
+No concept, architecture, master specification or red-team file was modified by this report.
