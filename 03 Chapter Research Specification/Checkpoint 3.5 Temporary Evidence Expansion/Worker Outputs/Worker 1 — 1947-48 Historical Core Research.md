@@ -85,7 +85,7 @@ This is sufficient to support Chapters 1–2 as a historical baseline and Chapte
 
 **Important clarification:** The payment decision did not arise from a simple “Gandhi wanted Pakistan funded” formula. The underlying financial agreement predated the fast; government had a Kashmir-related reason for withholding implementation; Gandhi opposed the withholding as inconsistent with the agreement and with India's moral conduct.
 
-**Source:** Nehru Archive, 14 Jan Cabinet minutes and 15 Jan cable: https://nehruarchive.in/documents/the-question-of-rs-55-crores-14-january-1948-3njyoj ; https://nehruarchive.in/documents/cable-to-vijayalakshmi-pandit-15-january-1948-go2xq1
+**Sources:** https://nehruarchive.in/documents/the-question-of-rs-55-crores-14-january-1948-3njyoj ; https://nehruarchive.in/documents/cable-to-vijayalakshmi-pandit-15-january-1948-go2xq1
 
 ## 2.3 Lok Sevak Sangh proposal
 
@@ -183,5 +183,160 @@ The timing makes January 1948 a critical proximate context, but it should not er
 **Weaker claim:** One issue (especially Rs. 55 crore) was the decisive or sole cause.
 
 **Prohibited shortcut:** Godse's motives = complete causal explanation = organisational responsibility.
+
+---
+
+# Task 4 — Conspiracy and Network Dossier
+
+## 4.1 Legal baseline
+
+The criminal record establishes a multi-person conspiracy case rather than a purely isolated act. The 1949 Punjab High Court appeal records that Godse was convicted of murder and that he appealed only the conspiracy finding, not the murder conviction or death sentence. The same appellate material describes the prosecution case concerning the January 20 attempt and the January 30 murder.
+
+The Supreme Court's 2018 order in *Phadnis v. Union of India* independently summarises the historical procedural record: nine accused were tried; the Special Court judgment of 10 Feb 1949 convicted seven and acquitted one; Godse and Apte received death sentences; the Punjab High Court in June 1949 upheld convictions for five and acquitted two. https://indiankanoon.org/doc/173981664/
+
+**Confidence:** Very high for the existence and outcome of the formal criminal proceedings.
+
+## 4.2 20 January attempt
+
+The trial record treats the 20 January explosion at Birla House as part of the conspiracy sequence. Madan Lal Pahwa was charged with causing the explosion; other named defendants were charged with abetment; the prosecution also alleged a broader agreement to murder Gandhi.
+
+The 1949 High Court material records Godse's and other accused persons' positions on the conspiracy charge and treats the January 20 event as part of the factual sequence requiring appellate examination.
+
+**What this safely establishes:** The bombing was a real failed attempt associated, in the criminal case, with the conspiracy under adjudication.
+
+**What requires caution:** The prosecution's charge formulation is not identical to the court's final findings against every person named in the charge. Manuscript language must therefore use the judgment's actual findings, not reproduce charges as proven facts.
+
+## 4.3 30 January operational act
+
+The primary/legal record securely establishes Godse as the person who fired the fatal shots. The Nehru Archive's contemporary/Selected Works record states that at about 5 pm, while Gandhi was proceeding to prayer, Godse pushed past Manubehn and fired three shots. The later Supreme Court record independently recognises Godse's conviction based on eyewitness evidence.
+
+**Confidence:** Very high for Godse's direct act.
+
+## 4.4 Who did what: minimum evidence map
+
+| Actor | What current evidence supports | Classification | What remains open |
+|---|---|---|---|
+| Nathuram Godse | Direct killer; convicted of murder; self-described political rationale; contested conspiracy finding on appeal | Established | Full motive reconstruction remains interpretive |
+| Narayan Apte | Convicted participant in conspiracy; death sentence confirmed | Established at legal level | Exact internal role beyond adjudicated findings should follow judgment |
+| Vishnu Karkare | Convicted in trial/appeal-era record at conspiracy level; part of operational network | Established at legal level | Exact role and ideological rationale need source-specific treatment |
+| Madan Lal Pahwa | Associated with 20 Jan explosion; convicted on relevant offences | Established at legal level | Full relationship between failed bombing and later action should follow judgment |
+| Gopal Godse | Convicted in original conspiracy proceedings | Established at legal level | Later memory writing is not neutral evidence of 1948 facts |
+| Shankar Kistayya | Convicted at trial but acquitted on appeal | Legal history is clear | Do not repeat trial conviction without appellate qualification |
+| Dattatraya Parchure | Convicted at trial but acquitted on appeal | Legal history is clear | Do not collapse trial and appellate outcomes |
+| Digambar Badge | Approver / prosecution witness rather than final convicted conspirator | Established | Testimony requires corroboration as with any approver evidence |
+| Vinayak Damodar Savarkar | Tried; acquitted at trial and not convicted on appeal | Established legal status | Later Kapur Commission finding and scholarly interpretations remain separate |
+
+## 4.5 Network versus organisation
+
+The current evidence supports a **personal/conspiratorial network** stronger than it supports a blanket **institutional command structure**.
+
+This distinction should be structurally enforced:
+
+**individual motive → personal association → network coordination → organisation membership → organisation knowledge → authorisation → institutional responsibility.**
+
+Evidence can securely reach the first three levels in the legal history. It can document memberships and political affiliations. It cannot be assumed to move automatically from affiliation to institutional authorisation.
+
+### Task 4 verdict
+
+**High confidence:** a multi-person conspiracy was adjudicated and several participants were convicted; Godse's direct act is secure.
+
+**Lower confidence:** any proposition about institution-wide planning or command requires separate organisation-level evidence.
+
+---
+
+# Task 5 — RSS / Hindu Mahasabha / Savarkar Evidence Audit
+
+| Claim | Current classification | Best evidence | Counterevidence / limitation | Manuscript rule |
+|---|---|---|---|---|
+| Godse had an RSS association | STRONGLY SUPPORTED | Contemporary/later records already collected in Phase 3 verification; organisational history | Exact January 1948 status remains disputed | State association chronologically; do not equate it with 1948 operational command |
+| Godse had Hindu Mahasabha political involvement | ESTABLISHED / STRONGLY SUPPORTED | Criminal/appellate record and political biographies | Exact organisational status at every point needs date-specific evidence | Include as political context and affiliation, not automatic institution-level responsibility |
+| RSS was a pre-assassination political/security concern of government | ESTABLISHED as government assessment | Nehru 28 Jan letter; 20 Feb 1948 correspondence | Government assessment does not prove criminal responsibility | Treat as contemporary state assessment |
+| Hindu Mahasabha was a pre-assassination political concern | ESTABLISHED as government assessment | Nehru 28 Jan letter to Mookerjee | Government criticism is not proof of murder conspiracy | Use to establish hostile political environment |
+| RSS as institution ordered/operationally executed Gandhi's assassination | UNSUPPORTED on current evidence | No organisation-level order currently in evidence | Later political interpretations and government suspicion are not sufficient | Prohibited without new organisation-level record |
+| Hindu Mahasabha as institution ordered/operationally executed assassination | UNSUPPORTED on current evidence | Individual links exist; institutional command document not established | Individual membership/activity is not institutional authorization | Prohibited as blanket claim |
+| Savarkar was criminally convicted as part of conspiracy | UNSUPPORTED / FALSE as legal proposition | Trial record | Trial acquitted Savarkar; appeal did not reverse to a conviction | Never state as legal fact |
+| Savarkar had no historical relevance at all | TOO STRONG / UNSUPPORTED | His political role and later inquiry matter historically | Legal acquittal does not erase historical relevance | Discuss separately at evidence level |
+| Kapur Commission settled criminal guilt | UNSUPPORTED | Commission was an inquiry, not criminal court | Supreme Court record preserves distinction between prior convictions/acquittals and commission findings | Never substitute commission finding for criminal conviction |
+| Nehru believed a wider RSS-linked conspiracy existed | ESTABLISHED as Nehru's 26 Feb 1948 belief | Nehru letter to Patel | A political leader's belief is not independent proof | Quote/attribute explicitly as Nehru's assessment |
+| Nehru believed assassination precipitated bans and organisational political change | ESTABLISHED as contemporary political assessment | Nehru 20 Feb letter | Does not itself establish every underlying allegation | Useful for Task 7/9 immediate state consequence |
+
+### Savarkar evidence rule
+
+The legally secure minimum is:
+
+- Savarkar was accused and tried;
+- he was acquitted by the trial court;
+- appellate/legal history did not convert that acquittal into a conviction;
+- a later commission produced a different historical assessment;
+- later scholarship disputes how much weight that assessment should receive.
+
+The manuscript must not collapse these layers.
+
+### RSS/Hindu Mahasabha conclusion
+
+The current evidence **does establish a hostile communal-political environment and significant individual/personal/network relationships**, but it does not justify converting that environment into a single institutional command narrative.
+
+### Task 5 verdict
+
+**High confidence:** actor-level and network-level distinctions.
+
+**Medium confidence:** exact organisation-level relationship beyond documented membership/political activity.
+
+**Low/insufficient evidence:** broad institutional responsibility claims.
+
+---
+
+# Task 6 — Assassination Event Dossier
+
+## 6.1 20 January 1948
+
+**Location:** Birla House, New Delhi, Gandhi's prayer setting.
+
+**Event:** An explosive device was detonated in the Birla House prayer-meeting environment; Madan Lal Pahwa was prosecuted/convicted for the relevant explosive offence.
+
+**Legal context:** The murder trial treated the event as part of the broader conspiracy sequence. The formal charges alleged a conspiracy extending from December 1947 through 30 January and separately charged the 20 January bombing/abetment.
+
+**Secure claim:** There was a failed violent attempt against Gandhi nine days before the successful assassination.
+
+**Important narrative control:** The event demonstrates escalating danger, not inevitability. The book should preserve the fact that the 20 January plan did not kill Gandhi and that the final 30 January act remains a later successful event.
+
+## 6.2 30 January 1948
+
+**Location:** Birla House, New Delhi, on the way to the evening prayer meeting.
+
+**Time:** Nehru Archive/Selected Works place the killing shortly after 5 pm.
+
+**Sequence:** Gandhi was late for prayer after a meeting with Patel; walking with Abha and Manubehn, he proceeded toward the prayer ground; Godse approached and fired three shots; Gandhi fell.
+
+**Sources:** Nehru national broadcast/Selected Works Vol. 5; criminal proceedings; later Supreme Court procedural summary.
+
+**Secure claim:** Godse fired the fatal shots and was convicted of murder.
+
+**Medical/funerary detail:** Use only details supported by contemporary official/family records. The manuscript does not need disputed minute-by-minute reconstruction if it does not advance the historical argument.
+
+## 6.3 Witnesses and contemporary record
+
+The criminal proceedings relied on eyewitness evidence for Godse's conviction. The 2018 Supreme Court summary expressly notes the conviction on eyewitness evidence at the prayer meeting.
+
+**Confidence:** High.
+
+## 6.4 Official immediate response
+
+The 30 January Nehru broadcast, 1 February Cabinet minutes, 2 February Government resolutions, and subsequent correspondence provide the strongest immediate official record.
+
+## 6.5 Funeral and ashes
+
+The Nehru Archive's Selected Works Vol. 5 includes documented illustrations for Gandhi's funeral procession on 31 January 1948 and the ash immersion at Allahabad on 12 February 1948. These materials support the scale and continuity of public mourning but require the corresponding contemporary narrative records for interpretive claims.
+
+### Details to omit unless directly needed
+
+- disputed exact final words;
+- unverified claims about exact bullet trajectory or medical sequence;
+- sensational details that do not advance the causal/memory argument;
+- repeated retellings of the physical shooting already established elsewhere.
+
+### Task 6 verdict
+
+The core assassination event is exceptionally secure. The research burden should now shift from “did this happen?” to “what did the killing do politically and symbolically immediately afterward?”
 
 ---
