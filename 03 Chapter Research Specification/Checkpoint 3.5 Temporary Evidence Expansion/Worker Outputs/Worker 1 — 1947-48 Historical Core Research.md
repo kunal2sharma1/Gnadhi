@@ -340,3 +340,401 @@ The Nehru Archive's Selected Works Vol. 5 includes documented illustrations for 
 The core assassination event is exceptionally secure. The research burden should now shift from “did this happen?” to “what did the killing do politically and symbolically immediately afterward?”
 
 ---
+
+# Task 7 — Immediate Mourning and Political Shock
+
+## 7.1 Nehru's 30 January broadcast: the direct loss is explicitly named
+
+The most important immediate primary record is Nehru's national broadcast, “The Light Has Gone Out,” on the evening of 30 January 1948.
+
+**Claim:** Gandhi's death immediately removed a living source of political counsel while simultaneously prompting a new symbolic framing of him.
+
+**Evidence:** Nehru states that people would no longer be able to run to Gandhi for advice and solace and describes the death as a terrible blow to millions. He then reframes Gandhi as a continuing “light” and calls for commitment to the purposes for which he lived.
+
+**What this establishes:** A contemporaneous political leader explicitly recognised the transition from living access to posthumous symbolic authority within hours of the killing.
+
+**What it does not establish:** It does not prove that the entire population adopted Nehru's formulation or that later Gandhi was universally defined by it.
+
+**Classification:** Death-general in its agency element; assassination-specific in timing, public shock and immediate political framing.
+
+**Confidence:** Very high.
+
+## 7.2 Mourning and funeral as political events
+
+The scale of mourning was partly predictable from Gandhi's pre-existing authority. It should therefore not be labelled “assassination-created mourning.”
+
+The assassination-specific feature is that the mourning occurred in the immediate aftermath of a political murder during a severe communal/state crisis and was integrated into national political ritual.
+
+Yasmin Khan's peer-reviewed study, “Performing Peace: Gandhi's assassination as a critical moment in the consolidation of the Nehruvian state,” argues that funeral, mortuary rituals and distribution of ashes operated as political performances through which Congress and the new state consolidated sovereignty while negotiating local and religious grief. Cambridge's record locates the article in *Modern Asian Studies* 45(1), 2011, pp. 57–80, DOI 10.1017/S0026749X10000223.
+
+**Source:** https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B13C16345C0092DF55010CDEFA9ACACF/S0026749X10000223a.pdf/performing-peace-gandhis-assassination-as-a-critical-moment-in-the-consolidation-of-the-nehruvian-state.pdf
+
+**What it establishes:** A serious scholarly interpretation that the funeral/mourning process had state-building and political meaning beyond private grief.
+
+**What it does not establish:** Khan's interpretation cannot substitute for the contemporaneous record and does not prove that everyone experienced the ritual in the same way.
+
+**Classification:** Death-general mourning + assassination-specific intensification + state/nation-building.
+
+**Confidence:** High for the existence and scale of mourning; high for the scholarly interpretation as interpretation.
+
+## 7.3 Cabinet and official emergency response
+
+The 1 February Cabinet record provides evidence that the government was actively deciding how to respond politically to Gandhi's death. Nehru proposed that the official statement should address the “larger things he had stood for” and particularly the peace pledge associated with the final fast.
+
+The 2 February Government of India resolutions then defined Gandhi in an authoritative political-moral register and attached his memory to nonviolence, truth, tolerance, peace and communal harmony. The same resolutions expressed determination to fight violence and communal hatred and to prevent organisations preaching such violence from operating.
+
+Sources:
+- https://nehruarchive.in/documents/official-tribute-to-the-mahatma-1-february-1948-8vx9kn
+- https://nehruarchive.in/documents/resolutions-on-the-death-of-mahatma-gandhi-2-february-1948-kz27ep
+
+**Classification:** Assassination-specific emergency response + state-building.
+
+**Confidence:** Very high.
+
+## 7.4 Political-security consequences
+
+Nehru's 20 February letter to provincial premiers says that the ban on the RSS and the Hindu Mahasabha's political response were “precipitated by the assassination of Gandhiji.” This is evidence of a contemporaneous governmental interpretation of the assassination's immediate political consequences.
+
+**Critical limitation:** This is not independent proof that every government allegation about those organisations was correct. The research should say “the assassination precipitated state action and political restructuring” rather than “the assassination proved organisational guilt.”
+
+**Source:** https://nehruarchive.in/documents/letters-to-the-premiers-of-provinces-v-20-february-1948-wdgv41
+
+**Classification:** Strongly assassination-specific immediate political consequence acting on a pre-existing security/communal problem.
+
+**Confidence:** High.
+
+### Task 7 verdict
+
+The immediate aftermath supports a layered sequence:
+
+**political murder → extraordinary shock and mourning → emergency state response → selection of Gandhi's meaning in official language → ritual/public construction.**
+
+The first and third elements are more assassination-specific than the raw fact of mourning. This is the empirical basis for keeping Chapter 8 distinct from Chapter 7.
+
+---
+
+# Task 8 — First Posthumous Gandhi
+
+## 8.1 Core question
+
+The chapter-level question is not “Was Gandhi mourned?” It is:
+
+> **How did immediate political actors begin deciding what the dead Gandhi was to represent, and what did they foreground or leave outside the official frame?**
+
+## 8.2 Traits emphasised in the first posthumous representation
+
+The earliest official formulations repeatedly emphasise:
+
+- moral authority;
+- nonviolence;
+- peace;
+- communal harmony;
+- unity and goodwill;
+- truth and tolerance;
+- service;
+- national leadership;
+- the duty to continue or fulfil “the larger things” associated with Gandhi.
+
+The 2 February Government resolution is particularly useful because it links Gandhi's final fast to peace and communal harmony, praises nonviolence and truth, and presents the state as committed to fighting violence and communal hatred.
+
+**Primary source:** https://nehruarchive.in/documents/resolutions-on-the-death-of-mahatma-gandhi-2-february-1948-kz27ep
+
+## 8.3 Political demands attached to the representation
+
+The first posthumous Gandhi was not only a commemorative figure. His memory was immediately attached to political expectations:
+
+- maintain communal peace;
+- reject retaliatory violence;
+- defend tolerance and coexistence;
+- treat nonviolence as a moral-political standard;
+- strengthen the legitimacy of a democratic/secular state against communal mobilisation.
+
+The 9 January 1949 Congress Working Committee resolution goes further: 30 January is to be observed as Sarvodaya Day; the public is encouraged to pray, spin and engage in social service; Gandhi's message is explicitly defined around unity, goodwill, truth, nonviolence, abolition of class/caste/religious distinctions, and a peaceful classless democratic society.
+
+**Primary source:** https://nehruarchive.in/documents/the-message-of-mahatma-gandhi-9-january-1949-3oz22
+
+This is important because it shows that the posthumous representation was becoming ritualised and normatively prescriptive within a year.
+
+## 8.4 What appears omitted or downplayed
+
+The official early statements do **not** attempt a comprehensive catalogue of Gandhi's entire political thought. They foreground unity, peace, nonviolence, truth, tolerance and service.
+
+By comparison with Gandhi's wider corpus, the following areas receive little or no explicit treatment in the immediate official statements:
+
+- his more disruptive critiques of modern industrial/economic organisation;
+- his detailed programme of decentralised village political economy;
+- his unresolved debate with caste structures and Ambedkarite critiques;
+- his full critique of state-centric power;
+- the precise institutional implications of the 29 January Lok Sevak Sangh draft.
+
+**Important status:** These are comparison-based observations, not proof of deliberate suppression. Absence from a short official tribute is not itself evidence of intentional omission.
+
+## 8.5 Were there incompatible “Gandhis” immediately?
+
+There is good evidence for at least two immediately competing representations, but they should not be treated as equally authoritative.
+
+### Gandhi as national moral authority
+
+Nehru/Cabinet/Congress formulations emphasised Gandhi as a unifying moral figure whose final message was peace, nonviolence and communal reconciliation.
+
+### Gandhi as a political adversary
+
+Pre-assassination anti-Gandhi rhetoric recorded in Nehru's 27–28 January correspondence described Gandhi as harmful to Hindu interests and used language calling for him to be “neutralised.” Godse's own political justification also constructed Gandhi as a political obstacle whose removal was necessary.
+
+The latter is best treated as **counter-memory/antagonistic representation**, not as an equivalent “official Gandhi.”
+
+**Source for pre-assassination rhetoric:** https://nehruarchive.in/documents/to-t-g-sanjeevi-27-january-1948-en9n5z
+
+## 8.6 Construction versus public consensus
+
+The evidence establishes early **construction by political leaders and institutions**, not a single national consensus. Public mourning was heterogeneous; different religious, political and communal actors may have experienced Gandhi differently. A manuscript chapter should therefore say “the first authoritative/publicly amplified Gandhi” rather than “the Gandhi everyone accepted.”
+
+### Task 8 verdict
+
+**High confidence:** early official actors actively selected and articulated a Gandhi defined heavily by peace, nonviolence, unity, truth and moral authority.
+
+**Medium confidence:** the degree to which the broader public immediately accepted or contested this representation.
+
+**Low/insufficient evidence:** any claim of deliberate systematic omission or “neutralisation” in the first weeks without a more systematic corpus comparison.
+
+---
+
+# Task 9 — Early State Canonisation Evidence, 1948–1955
+
+## 9.1 The first-year step: from tribute to recurring ritual
+
+The 9 January 1949 Congress Working Committee resolution makes 30 January a recurring national observance, “Sarvodaya Day,” and explicitly ties ritual practice to Gandhi's ideals. This is evidence that the initial post-assassination representation was becoming institutionalised beyond the immediate funeral.
+
+The resolution prescribes prayer, spinning, social service and public meetings and defines Gandhi's message as unity/goodwill, truth/nonviolence, service, and peaceful movement toward a classless democratic society.
+
+**Source:** Nehru Archive, 9 Jan 1949: https://nehruarchive.in/documents/the-message-of-mahatma-gandhi-9-january-1949-3oz22
+
+**Classification:** Post-assassination institutionalisation + Congress/national memory + nation-building.
+
+**Confidence:** Very high for the resolution and its content.
+
+## 9.2 Gandhi Smarak Nidhi and memorial institutions
+
+The 17 December 1952 parliamentary record provides concrete longitudinal evidence. It states that Gandhi Smarak Nidhi was established after Gandhi's death to conduct and promote constructive activities associated with Gandhi and to acquire and preserve places associated with his life and work. The record states that by the end of 1951 the Nidhi had collected approximately Rs. 10.6 crore in public donations.
+
+The same record says trustees had collected Rs. 10 crore toward Gandhi museums in Delhi, Sewagram, Sabarmati and Madurai, plus village centres called “Gandhi Ghar.” A Gandhi Memorial Design Committee had been appointed in 1950 and was still considering the design in 1952.
+
+**Source:** Nehru Archive, “The Gandhi Memorial,” 17 Dec 1952: https://nehruarchive.in/documents/the-gandhi-memorial-17-december-1952-1vn3y
+
+The underlying Selected Works Vol. 20 PDF is also available: https://nehruarchive.in/media/docs/selectedworks/volume-20-series-2/Volume-20-Second-Series.pdf
+
+**What it establishes:** Post-assassination memory became material and institutional: fundraising, museums, memorial design, preservation and constructive-work infrastructure.
+
+**What it does not establish:** It does not prove that all these projects were controlled by the central state. The Nidhi was a public memorial institution with strong political and Gandhian networks, while government and Parliament interacted with it.
+
+**Classification:** Durable institutionalisation; mixed state/public/civic mechanism.
+
+**Confidence:** High.
+
+## 9.3 International memorialisation as a control
+
+Nehru's Selected Works Vol. 14 records the laying of the foundation stone of a Mahatma Gandhi Memorial in Singapore on 18 June 1950. This demonstrates that memorialisation was not confined to Indian state institutions and that Gandhi's international symbolic survival had independent trajectories.
+
+**Source:** Nehru Archive, Selected Works Vol. 14: https://nehruarchive.in/media/docs/selectedworks/volume-14-part-2-series-2/Volume-14-Second-Series-Part-2.pdf
+
+**Classification:** International memory / later-independent + death-general.
+
+**Use:** Control case showing that the long-term Gandhi memory field cannot be reduced to Indian state canonisation.
+
+## 9.4 Before/after control for canonisation
+
+### Before 30 January
+
+Gandhi already had extraordinary national symbolic status. Nehru's August 1947 and Gandhi Jayanti 1947 speeches treat Gandhi as a central moral-political authority.
+
+### After 30 January
+
+Specific new forms emerge:
+
+- recurring national observance of 30 January;
+- official resolutions defining a particular Gandhi message;
+- Gandhi Smarak Nidhi and large-scale public memorial fundraising;
+- museum and memorial infrastructure tied to specific Gandhi sites;
+- state/public coordination around memorial design.
+
+Therefore the evidence supports:
+
+**pre-existing symbolic authority + assassination-triggered memorial crisis + national institution-building → durable institutionalisation of selected Gandhi meanings.**
+
+It does not support:
+
+**assassination alone → state invented Gandhi as national symbol.**
+
+## 9.5 State canonisation versus civic/institutional inheritance
+
+The evidence suggests an interaction rather than a single state mechanism.
+
+- Congress institutionalised observance and language.
+- Government participated in memorial design and parliamentary discussion.
+- Gandhi Smarak Nidhi mobilised large public donations and constructive work.
+- Gandhian networks continued to operate outside government.
+- International memorialisation developed independently.
+
+Thus “state canonisation” is usable as a chapter concept only if defined as **state-linked institutional selection and reproduction**, not as total state ownership of Gandhi's memory.
+
+### Task 9 verdict
+
+**High confidence:** durable post-assassination institutionalisation of selected Gandhi meanings by 1949–1952.
+
+**Medium-high confidence:** this process can be called state-linked canonisation if the term is narrowly defined and the civic/public component remains visible.
+
+**Insufficient evidence for:** a claim that the state alone, or assassination alone, produced Gandhi's durable status.
+
+---
+
+# Task 10 — Chapters 1–10 Evidence Matrix + Gaps
+
+| Chapter | Load-Bearing Claim | Best Evidence | Primary Source Needed | Scholarship Needed | Counterevidence | Confidence | Remaining Gap |
+|---|---|---|---|---|---|---|---|
+| 1 | Gandhi remained an active political actor immediately before death, with meaningful but bounded influence | Jan 1948 fast records; 15 Jan payment decision; 17–18 Jan political response; 29 Jan draft | Gandhi's own Jan writings/letters; 30 Jan Patel meeting record if available | Final-period Gandhi scholarship | He lacked formal office and could not command government | High | Direct Gandhi corpus synthesis and precise limits of practical influence |
+| 2 | Gandhi's post-independence political project remained unfinished | Jan fast; 55 crore context; 29 Jan Lok Sevak Sangh draft; Mar 1948 Nehru reference | Original 29 Jan draft; adjacent late-January Gandhi notes | Scholarship on Congress/service/constructive work after independence | Draft may be experimental, not settled final programme | High for “unfinished”; medium-high for scope | Line-by-line primary comparison of 29 Jan draft with adjacent Gandhi texts |
+| 3 | Godse understood assassination as political/ideological action; his motives included communal and late-January grievances | Godse legal record; anti-Gandhi rhetoric; 55 crore context | Full primary trial statement; prosecution exhibits | Scholarly work on Godse and Hindu nationalist ideology | Self-justification; longer ideological/network causes | Medium-high | Direct primary Godse statement/exhibits and comparative scholarly interpretation |
+| 4 | Assassination emerged from a documented multi-person conspiracy | Special Court / Punjab HC; 20 Jan and 30 Jan record; Supreme Court procedural summary | Full Special Court judgment and full appellate record | Legal-historical scholarship | Charges differ from final findings; some trial convictions overturned on appeal | Very high for legal sequence | Acquire/verify complete judgments and exhibits |
+| 5 | Organisational responsibility must remain distinct from individual/network affiliation | 28 Jan/20 Feb Nehru correspondence; trial/acquittal record; Savarkar legal history | Organisation-level RSS/HM records; full Patel/Nehru files; commission documents | Scholarly dispute over Savarkar/RSS/HM | Government suspicion and later commission findings do not equal criminal conviction | High for boundaries; mixed for specific organisations | Exact RSS Jan 1948 status; complete Kapur material and contemporary organisational records |
+| 6 | Godse killed Gandhi on 30 Jan; core event is secure | Nehru 30 Jan record; criminal record; eyewitness basis noted by Supreme Court | Medical/funeral/police records only for details used | Brief legal-historical corroboration | Peripheral details can be disputed | Very high | None on core event; only detail-level verification |
+| 7 | Death ended Gandhi's direct agency and therefore changed the political relationship between Gandhi and his audience | Nehru “Light Has Gone Out”; final Gandhi dates | Gandhi final correspondence + immediate responses | Memory/agency scholarship | Agency loss is death-general and therefore not unique to assassination | High as bridge; weaker as unique causal explanation | Keep short; prove Gandhi-specific pre/post contrast |
+| 8 | Assassination produced extraordinary immediate political shock and state/public response beyond ordinary bereavement | 30 Jan broadcast; 1–2 Feb Cabinet/Govt; funeral; 20 Feb state action; Khan | Complete Cabinet/Home Ministry files; funeral administrative record | Yasmin Khan and other mourning/state scholarship | Gandhi's fame and nation-building would also produce major mourning | Very high | Broader archival comparison to quantify what was uniquely assassination-specific |
+| 9 | Immediate responses actively selected/codified a first authoritative posthumous Gandhi | 1 Feb Cabinet; 2 Feb resolutions; 1949 Sarvodaya resolution | Full Cabinet/Gazette series; early Congress/Gandhian organisational statements | Memory/canonisation scholarship | Official language may not equal popular consensus; omissions may be simple selectivity | High | Larger corpus of 1948 public/community representations |
+| 10 | Selected posthumous Gandhi meanings became durable in state-linked memorial/institutional systems by 1949–55 | 1949 Sarvodaya Day; Gandhi Smarak Nidhi; 1952 Parliament; memorial/museum plans | Nidhi trust deed, memorial committee minutes, education/curriculum directives, budget/parliament records | State formation/memory scholarship | Nidhi and Gandhian institutions were partly civic/public; nationalisation has independent causes | Medium-high | More direct evidence of schools/textbooks and exact state curriculum decisions 1949–55 |
+
+## Five Strongest Claims
+
+1. **Gandhi remained a politically consequential living actor in January 1948.** The fast produced concrete commitments and government action; this is stronger than describing him merely as a moral symbol.
+2. **The January 1948 fast cannot responsibly be reduced to the Rs. 55 crore issue.** Contemporary records place communal peace and moral-political reconciliation at the centre while also documenting the financial dispute.
+3. **The assassination produced a distinctive immediate political shock.** The strongest evidence is not the existence of grief alone but the combination of national broadcast, emergency state response, official resolutions and policy action explicitly precipitated by the murder.
+4. **Officials immediately selected meanings of Gandhi rather than merely mourning him.** The 1–2 February Cabinet/Government record is unusually direct evidence of this interpretive act.
+5. **Post-assassination Gandhi meanings became materially institutionalised by 1949–1952.** Sarvodaya Day, the Gandhi Smarak Nidhi, memorial fundraising, museums and Gandhi Memorial planning demonstrate durable institutional reproduction rather than a single funeral moment.
+
+## Five Weakest Claims
+
+1. **Rs. 55 crore was the decisive or sole cause of the assassination.** Current evidence does not justify this.
+2. **The RSS or Hindu Mahasabha as institutions ordered or operationally executed the assassination.** Current evidence supports association, political environment and state suspicion, not institutional command.
+3. **Savarkar was the mastermind.** The legal record does not support this as a settled fact; later inquiry and scholarship must remain separately classified.
+4. **The 29 January Lok Sevak Sangh draft was Gandhi's singular final political programme.** It is securely evidence of an unfinished proposal; its counterfactual future is unknowable.
+5. **Assassination caused Gandhi's entire later legacy.** The research directly contradicts this simplification: pre-existing symbolism and independent nation-building are major alternative causes.
+
+## Five Highest-Value Missing Primary Sources
+
+1. **The original 29 January 1948 Lok Sevak Sangh draft** from Gandhi's papers/CWMG/Gandhi Heritage Portal, checked against the March 1948 public reference.
+2. **Gandhi's own January 1948 writings, speeches, letters and prayer-meeting material** surrounding the fast, so that the final Gandhi is not reconstructed primarily through Nehru's voice.
+3. **Complete January–February 1948 Cabinet/Home Ministry files** on the Rs. 55 crore decision, Gandhi's fast, the assassination, communal organisations and the immediate bans/security response.
+4. **The complete Special Court judgment and Punjab High Court appellate record, with relevant exhibits/approver testimony**, to map the January 20–30 conspiracy without relying on later summaries.
+5. **1949–1955 Gandhi memorial and education records** — Gandhi Smarak Nidhi trust deed and minutes, Gandhi Memorial Design Committee records, museum planning papers, Parliament/Government education directives and early textbook/curriculum material.
+
+## Five Claims Most Vulnerable to Red-Team Revision
+
+1. **“Assassination created the first posthumous Gandhi.”** This risks overstating a construction that was heavily dependent on pre-existing symbolic authority and nation-building.
+2. **“Loss of agency caused the posthumous transformation.”** Loss of agency is universal to death; the unique causal claim must be carried by assassination-specific events in Chapter 8.
+3. **“The state canonised Gandhi.”** This can become too monolithic unless civic Gandhian organisations, Congress, public donors and international memorialisation remain visible.
+4. **“Official early Gandhi = public Gandhi.”** Nehru/Cabinet resolutions prove authoritative state construction, not unanimous public acceptance.
+5. **“Early institutionalisation was an assassination effect.”** The assassination triggered a crisis and accelerated particular processes, but Gandhi's pre-existing fame and the needs of Indian nation-building remain independent explanations.
+
+---
+
+# Worker 1 Overall Research Summary
+
+The 1947–48 historical core is now substantially stronger than the earlier narrative baseline.
+
+The most defensible sequence is:
+
+**Gandhi already mattered → Gandhi was still acting → communal/state crisis already existed → Gandhi's January intervention had real political consequences → Gandhi's post-independence organisational project remained unfinished → political opponents had developed serious ideological grievances → the assassination physically removed the actor → the murder produced an extraordinary immediate shock and state/security response → political leaders and institutions began selecting what Gandhi would mean after death → those selections became institutionalised through recurring observance and memorial infrastructure.**
+
+The research therefore strongly supports the book's immediate causal hinge, but it does not support a single-cause model of the later Gandhi legacy.
+
+### Overall evidence assessment
+
+- **1947–48 chronology:** High confidence.
+- **Gandhi as active final-period actor:** High confidence.
+- **Unfinished project:** High confidence in bounded form; medium-high on the exact scope of the final programme.
+- **Godse's political/ideological self-understanding:** High confidence as self-understanding; medium-high for broader causal interpretation.
+- **Multi-person conspiracy / legal record:** Very high confidence.
+- **Institutional RSS/Hindu Mahasabha responsibility:** Not established at the required level.
+- **Savarkar:** legally acquitted; later inquiry/scholarship remains a separate evidentiary layer.
+- **Immediate mourning and political shock:** Very high confidence.
+- **Early state selection/codification of Gandhi's meaning:** Very high confidence.
+- **Durable 1949–52 institutionalisation:** High confidence.
+- **Assassination as explanation for entire later legacy:** unsupported and should remain excluded.
+
+---
+
+# High-Value Sources
+
+## Primary / near-primary
+
+1. Nehru Archive — The Question of Rs. 55 Crores, 14 Jan 1948: https://nehruarchive.in/documents/the-question-of-rs-55-crores-14-january-1948-3njyoj
+2. Nehru Archive — The Purpose of Mahatma Gandhi's Fast, 17 Jan 1948: https://nehruarchive.in/documents/the-purpose-of-mahatma-gandhis-fast-17-january-1948-xev4o3
+3. Nehru Archive — Letters to Premiers II, 17 Jan 1948: https://nehruarchive.in/documents/letters-to-the-premiers-of-provinces-ii-17-january-1948-l5gep8
+4. Nehru Archive — To T.G. Sanjeev[i], 27 Jan 1948: https://nehruarchive.in/documents/to-t-g-sanjeevi-27-january-1948-en9n5z
+5. Nehru Archive — To Syama Prasad Mookerjee, 28 Jan 1948: https://nehruarchive.in/documents/to-syama-prasad-mookerjee-28-january-1948-vg9gw6
+6. Nehru Archive — The Light Has Gone Out, 30 Jan 1948: https://nehruarchive.in/documents/the-light-has-gone-out-30-january-1948-onxyq1
+7. Nehru Archive — Official Tribute to the Mahatma, 1 Feb 1948: https://nehruarchive.in/documents/official-tribute-to-the-mahatma-1-february-1948-8vx9kn
+8. Nehru Archive — Resolutions on the Death of Mahatma Gandhi, 2 Feb 1948: https://nehruarchive.in/documents/resolutions-on-the-death-of-mahatma-gandhi-2-february-1948-kz27ep
+9. Nehru Archive — Letters to Premiers V, 20 Feb 1948: https://nehruarchive.in/documents/letters-to-the-premiers-of-provinces-v-20-february-1948-wdgv41
+10. Nehru Archive — Constructive Work in a Larger Context, 13 Mar 1948: https://nehruarchive.in/documents/constructive-work-in-a-larger-context-13-march-1948-2vz2z6
+11. Nehru Archive — The Message of Mahatma Gandhi, 9 Jan 1949: https://nehruarchive.in/documents/the-message-of-mahatma-gandhi-9-january-1949-3oz22
+12. Nehru Archive — The Gandhi Memorial, 17 Dec 1952: https://nehruarchive.in/documents/the-gandhi-memorial-17-december-1952-1vn3y
+13. Nehru Archive — Selected Works Vol. 20: https://nehruarchive.in/media/docs/selectedworks/volume-20-series-2/Volume-20-Second-Series.pdf
+14. Nehru Archive — Selected Works Vol. 14: https://nehruarchive.in/media/docs/selectedworks/volume-14-part-2-series-2/Volume-14-Second-Series-Part-2.pdf
+15. Punjab High Court — Criminal Appeal 66/1949: https://highcourtchd.gov.in/landmark_judgments/HC/English/criminal%20appeal_66_1949.pdf
+16. Supreme Court historical summary in *Phadnis v Union of India* (2018): https://indiankanoon.org/doc/173981664/
+
+## Serious scholarship
+
+17. Yasmin Khan, “Performing Peace: Gandhi's assassination as a critical moment in the consolidation of the Nehruvian state,” *Modern Asian Studies* 45(1), 2011, pp. 57–80, DOI 10.1017/S0026749X10000223: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B13C16345C0092DF55010CDEFA9ACACF/S0026749X10000223a.pdf/performing-peace-gandhis-assassination-as-a-critical-moment-in-the-consolidation-of-the-nehruvian-state.pdf
+
+---
+
+# Major Contradictions
+
+1. **Fast versus Rs. 55 crore:** The payment issue was consequential and politically charged, but contemporary records support a wider communal/moral purpose for the fast. The manuscript should not repeat a one-issue explanation as settled fact.
+2. **Godse's self-understanding versus historical causation:** Godse's own justification is important primary evidence of belief, but it is not a complete causal model. Network, ideology and context must be analysed separately.
+3. **Government suspicion versus organisational responsibility:** Nehru and other officials clearly believed some communal organisations posed serious dangers and later linked assassination to bans and political action; that is different from proof of institutional command over the assassination.
+4. **Trial record versus later inquiry:** Criminal convictions/acquittals, later commission findings and scholarly interpretations cannot be silently substituted for one another.
+5. **National mourning versus assassination-specific shock:** Gandhi's fame makes major mourning predictable after any death; the more defensible assassination-specific claim concerns the political murder, emergency state action, ritualisation and immediate official selection of meaning.
+6. **State canonisation versus civic memory:** Government and Congress clearly participated in defining Gandhi, but Gandhi Smarak Nidhi and Gandhian networks mobilised substantial public/civic resources. “State canonisation” should therefore mean state-linked institutional selection/reproduction, not total state ownership.
+7. **Official Gandhi versus public Gandhi:** Early official formulations are unusually well documented, but the evidence does not yet establish that all publics accepted the same representation.
+
+---
+
+# Potential Structural Implications
+
+These are evidence implications only and do **not** alter the approved architecture.
+
+1. **Chapter 7 should remain a short Gandhi-specific bridge.** Its documentary job is to show what direct political capacities disappeared; it should not carry the book's main assassination-specific causal burden.
+2. **Chapter 8 has the strongest immediate causal evidence.** Its centre of gravity should be the combination of political murder, extraordinary shock, emergency state response, mourning and ritual.
+3. **Chapter 9 has a distinct evidentiary basis.** The 1–2 February Cabinet/Government records show selection and codification of Gandhi's meaning, which is analytically different from raw mourning.
+4. **Chapter 10 can remain distinct on current evidence, but “canonisation” should be defined narrowly.** The strongest claim is durable state-linked institutionalisation of selected Gandhi meanings from 1949–1952, not a claim that the state alone created Gandhi.
+5. **The 1947–48 core should retain the Rs. 55 crore issue but subordinate it to the wider fast/communal context.** This prevents both nationalist and anti-Gandhi simplifications.
+6. **Chapter 5 should preserve the individual/network/organisation ladder visibly.** The new chronology strengthens the evidence for a hostile political environment but does not justify institutional shorthand.
+7. **The 29 January Lok Sevak Sangh material should remain a bounded “unfinished project” case.** It should not be used to construct a counterfactual Gandhi programme that no longer had a living author.
+8. **A repeated pre-existing/death-general/assassination-specific/state-building classification would materially strengthen the first ten chapters.**
+
+---
+
+# Open Research Questions
+
+1. Can the original 29 January 1948 Lok Sevak Sangh draft be retrieved and compared line-by-line with Gandhi's January speeches, letters and prayer-meeting statements?
+2. What did Gandhi himself say on 14–18 January about the fast, the cash-balance issue and the communal conditions, independent of Nehru's summaries?
+3. What precisely did Gandhi and Patel discuss on 30 January before the prayer meeting, and does that evidence materially sharpen the “living actor” baseline?
+4. Can the complete Cabinet/Home Ministry files for 14 January–February 1948 establish a more precise chain between assassination, security policy and bans on communal organisations?
+5. Can the complete Special Court judgment and exhibits be obtained to improve the actor-level conspiracy map and prevent reliance on later summaries?
+6. What is the strongest primary evidence for Savarkar/Godse interaction before the assassination, and how should it be weighed against the criminal acquittal and later Kapur Commission finding?
+7. Can a larger contemporary corpus of funeral, press, Congress, Gandhian and regional records establish how heterogeneous “the first Gandhi after Gandhi” actually was?
+8. Which specific 1949–1955 school curricula, textbooks, radio scripts and memorial records demonstrate durable state-linked canonisation rather than simple commemoration?
+9. Does the early institutionalisation of Gandhi differ materially between central government, Congress, Gandhi Smarak Nidhi, Sarvodaya networks and international memorial institutions?
+10. Which parts of Gandhi's wider political thought were systematically absent from early official memorial formulations, and can that absence be shown to have later institutional consequences without imputing intent?
+
+---
+
+# Research-Run Status
+
+**Tasks 1–10 completed.**
+
+The master report contains the chronology, unfinished-project dossier, Godse motive dossier, conspiracy/network dossier, organisational responsibility audit, assassination event dossier, immediate mourning/political-shock findings, first posthumous Gandhi findings, early state-canonisation evidence, and the Chapters 1–10 evidence matrix plus gap analysis requested by the worker packet.
+
+No project architecture or checkpoint decision file was modified.
